@@ -4,4 +4,4 @@ Those are mostly used to check file integrity during the auto-update process.
 
 
 ---
-[userTrack - Self-hosted Analytics alternative to Google Analytics and Hotjar](https://www.usertrack.net)
+[UXWizz - Self-hosted Analytics alternative to Google Analytics and Hotjar](https://www.uxwizz.com)
