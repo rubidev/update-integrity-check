@@ -6,4 +6,6 @@ Those are mostly used to check file integrity during the auto-update process.
 ---
 [UXWizz - Self-hosted Analytics alternative to Google Analytics and Hotjar](https://www.uxwizz.com)
 
+[Documentation - Installing Self-hosted Analytics](https://docs.uxwizz.com/installation/installation) 
+
 ---
